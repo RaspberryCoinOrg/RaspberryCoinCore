@@ -1,7 +1,7 @@
 Raspberry Coin Core
 =====================================
 
-<img src="https://pp.vk.me/c637731/v637731892/51e0/oA1TO89nf54.jpg" width="200">
+<img src="https://pp.vk.me/c637731/v637731892/51e0/oA1TO89nf54.jpg" width="250">
 
 
 https://raspberrycoin.org
