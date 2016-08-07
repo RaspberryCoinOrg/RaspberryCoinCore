@@ -1,4 +1,4 @@
-Raspberry Coin integration/staging tree
+Raspberry Coin Core
 =====================================
 https://raspberrycoin.org
 
