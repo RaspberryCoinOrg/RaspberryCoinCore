@@ -16,7 +16,7 @@ out collectively by the network. Raspberry Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the RaspberryCoin Core software, see https://raspberrycoin.org/downloads, or read the docs.
+the RaspberryCoin Core software, see https://raspberrycoin.org/downloads, or read docs.
 
 License
 -------
