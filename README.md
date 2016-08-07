@@ -1,6 +1,9 @@
 Raspberry Coin Core
-<img src="https://pp.vk.me/c637731/v637731892/51c4/RVo-iY93xh0.jpg">
 =====================================
+
+<img src="https://pp.vk.me/c637731/v637731892/51c4/RVo-iY93xh0.jpg">
+
+
 https://raspberrycoin.org
 
 What is RaspberryCoin?
